@@ -48,7 +48,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.pushButton_prelucrare.setText(_translate("MainWindow", "Prelucrare"))
         self.label_nume_imagine.setText(_translate("MainWindow", "Nume Imagine --  "))
-        self.label_drag_drop.setText(_translate("MainWindow", "Arunca imaginea aici 2"))
+        self.label_drag_drop.setText(_translate("MainWindow", "Drag the image here"))
 
 
 if __name__ == "__main__":
